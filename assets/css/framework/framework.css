@@ -141,7 +141,11 @@ i:hover {
     background-color: red;
     font-size: 2.5rem;
     color: white;
+}
 
+.paginate-item:hover {
+    transform: scale(1.2);
+    cursor: pointer;
 }
 
 .paginate {
